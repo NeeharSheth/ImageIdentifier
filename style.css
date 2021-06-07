@@ -1,0 +1,23 @@
+body{
+    color: antiquewhite;
+    background-color: indianred;
+}
+
+.header{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects{
+    color: black;
+}
+
+#camera{
+    border: 2px dashed saddlebrown;
+ width: 350px;
+ height:280;
+}
+
+.button_capture, .button_check{
+    border-radius: 10px;
+}
